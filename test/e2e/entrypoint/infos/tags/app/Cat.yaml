@@ -1,0 +1,5 @@
+name: cat
+description: Everything about your cat
+externalDocs:
+  description: Find out more
+  url: http://swagger.io
